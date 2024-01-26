@@ -18,6 +18,7 @@ I am excited to introduce a powerful project that streamlines the process of gen
 ## System Requirements
 - Processing IDE
 - Input Excel files with appropriate data and formats
+- Input Report Card Template
 
 ## Development Environment
 - Processing IDE
